@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Hawk777/P1/_apis/build/status/Eric2099.pipelines-python-django)](https://dev.azure.com/Hawk777/P1/_build/latest?definitionId=14)
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
